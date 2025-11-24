@@ -1,0 +1,21 @@
+idUsuario,idFuncaoUsuario,nome,email,dataContratacao
+1,3,Alan Smith,alan@game.com,2024-01-15
+2,11,Danielly Reis,dani@game.com,2023-05-20
+3,1,Victor Hugo,victor@game.com,2024-03-01
+4,2,Guilherme Melo,gui@game.com,2023-11-10
+5,5,Letícia Moreira,leti@game.com,2024-02-25
+6,1,Eduardo Figueiredo,edu@game.com,2025-01-05
+7,3,Oslon Silva,oslon@game.com,2023-08-01
+8,13,Tiago Alves,tiago@game.com,2024-05-12
+9,12,Fernanda Costa,fer@game.com,2024-06-18
+10,8,Lucas Xavier,lucas@game.com,2023-07-07
+11,2,Mariana Lima,mariana@game.com,2024-04-01
+12,5,Rafael Nunes,rafael@game.com,2025-02-01
+13,7,Sofia Perez,sofia@game.com,2024-09-15
+14,9,Bruno Carvalho,bruno@game.com,2023-10-20
+15,1,Renato Gomes,renato@game.com,2024-07-22
+16,4,Isabela Freitas,isabela@game.com,2025-03-10
+17,6,Pedro Rocha,pedro@game.com,2024-11-01
+18,10,Julia Santos,julia@game.com,2023-09-05
+19,14,André Vieira,andre@game.com,2024-08-20
+20,11,Clara Pires,clara@game.com,2025-04-10

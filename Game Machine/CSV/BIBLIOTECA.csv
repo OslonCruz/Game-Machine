@@ -1,0 +1,21 @@
+idAsset,tipoAsset,descricaoAsset,caminhoArquivo
+1,Modelo 3D,Herói Padrão,assets/models/hero_v1.fbx
+2,Modelo 3D,Inimigo Goblin,assets/models/goblin.fbx
+3,Áudio,Música Tema Principal,assets/audio/main_theme.mp3
+4,Áudio,Efeito de tiro laser,assets/audio/laser_shot.wav
+5,Imagem,Ícone de Habilidade 1,assets/ui/icon_skill_01.png
+6,Imagem,Background deserto,assets/backgrounds/desert.jpg
+7,Script,Sistema de Inventário,assets/scripts/inventory.cs
+8,Script,IA de Patrulha,assets/scripts/ai_patrol.cs
+9,Modelo 3D,Nave Espacial Média,assets/models/ship_med.fbx
+10,Modelo 3D,Árvore Fantasia,assets/models/tree_fantasy.fbx
+11,Áudio,Passos na grama,assets/audio/footstep_grass.wav
+12,Imagem,Textura de Metal,assets/textures/metal.jpg
+13,Script,Efeito de Partícula Fogo,assets/scripts/fire_particle.cs
+14,Modelo 3D,Arma Pesada,assets/models/weapon_heavy.fbx
+15,Áudio,Ambiente Floresta,assets/audio/amb_forest.mp3
+16,Imagem,Tela de Loading,assets/ui/loading_screen.png
+17,Script,Controle de Câmera 3a Pessoa,assets/scripts/cam_3p.cs
+18,Modelo 3D,Portal Mágico,assets/models/magic_portal.fbx
+19,Áudio,Voz do NPC 1,assets/audio/npc_voice_01.wav
+20,Imagem,Logotipo do Jogo,assets/ui/logo_final.png
